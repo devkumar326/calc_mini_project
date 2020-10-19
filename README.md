@@ -1,6 +1,9 @@
-# calc_mini_project
+# Calc_mini_project
 
 Calculator mini Project for flutter
+
+## Demo
+<img src="https://raw.githubusercontent.com/devkumar326/calc_mini_project/master/Demo_Snap.png" width=300>
 
 ## Getting Started
 
